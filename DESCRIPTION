@@ -1,12 +1,13 @@
 Package: fizzbuzz
 Title: Implementation of the fizzbuzz algorithm
 Version: 0.1.0
-Authors@R: 
-    person("Colin", "Rundel", , "rundel@gmail.com", role = c("aut", "cre"))
+Authors@R: c(
+    person("Colin", "Rundel", , "rundel@gmail.com", role = c("aut", "cre")),
     person("Jane", "Doe", , "j.doe@gmail.com", role = c("aut"))
+  )
 Description: This package implements the fizzbuzz algorithm based on.
     And this is more description and more.
-    And another Paragraph
+    And another Paragraph.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
