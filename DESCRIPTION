@@ -19,3 +19,9 @@ BugReports: https://github.com/rundel/fizzbuzz/issues
 Depends: 
     R (>= 2.10)
 LazyData: true
+Suggests: 
+    rmarkdown,
+    knitr,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 3
