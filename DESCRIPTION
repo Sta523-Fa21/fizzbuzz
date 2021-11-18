@@ -16,3 +16,6 @@ Imports:
     dplyr
 URL: https://github.com/rundel/fizzbuzz
 BugReports: https://github.com/rundel/fizzbuzz/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
